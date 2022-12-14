@@ -1,3 +1,8 @@
+## git bestand maken 
+```bash
+git init
+```
+
 ## pushen van een bestand
 ```bash
 git add url
@@ -17,3 +22,8 @@ git fetch
 git pull
 ```
 
+## commit ongedaan maken 
+Het ongedaan maken van een git commando
+```bash
+git revert hashcode-commit
+```
